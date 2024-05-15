@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate software development student at 42 Barcelona</h3>
 
-- 🔭 I just finished working on a web server implementation from scratch in Cpp [Webserv 42](https://github.com/dtome-pe/webserv)
+- I'm at the last stage of my learning adventure at 42. 42 is a no-teachers, learn by doing, peer-to-peer take on software development study. This has helped me not only to master essential coding skills, but also other crucial ones, like time management, assertiveness and initiative.  [https://42.fr/en/homepage/](https://42.fr/en/homepage/)
 
-- 👯 I'm also at the last stages of my learning adventure in 42 Barcelona, which is a learn by doing, peer-to-peer take on software development study. [https://42.fr/en/homepage/](https://42.fr/en/homepage/)
+- I am currently looking to make my first steps in my coding career, as I already feel confident in my skills and aptitudes.
+
+- I just finished working on a web server implementation from scratch in C++. It has been a deep dive on socket programming, multiplex I/O handling and the HTTP protocol. [Webserv 42](https://github.com/dtome-pe/webserv)
+
+- I have also been working on containerization and Docker usage. [Inception 42](https://github.com/dtome-pe/inception)
 
 - ⚡ Fun fact **I used to make music**
 
