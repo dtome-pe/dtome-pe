@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A passionate software development student at 42 Barcelona</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dtome-pe&label=Profile%20views&color=0e75b6&style=flat" alt="dtome-pe" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dtome-pe" alt="dtome-pe" /></a> </p>
-
 - 🔭 I just finished working on a web server implementation from scratch in Cpp [Webserv 42](https://github.com/dtome-pe/webserv)
 
 - 👯 I'm also at the last stages of my learning adventure in 42 Barcelona, which is a learn by doing, peer-to-peer take on software development study. [https://42.fr/en/homepage/](https://42.fr/en/homepage/)
